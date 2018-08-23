@@ -1,6 +1,6 @@
 ### Avazu click through rate prediction
 
-####Task:
+#### Task:
 
 Given 11 days of clicks/not clicks data from Avazu, together with 
 various info about the ad content, placement, etc, can we predict whether
